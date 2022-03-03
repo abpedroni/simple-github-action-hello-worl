@@ -1,1 +1,3 @@
-# simple-github-action-hello-worl
+# simple-github-action-hello-world
+
+simple github hello world action.
